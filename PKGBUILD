@@ -1,4 +1,4 @@
-#Maintainer：	Giteeajake <giteeajake@qq.com>
+#Maintainer：	Mumi Jim <echo "=02bj5yav9Gb0V3bA1Waq9VatVXb" | rev | base64 -d>
 #Thanks Klaus
 
 pkgname="ghex-git"
